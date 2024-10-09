@@ -1,4 +1,4 @@
 ## I'm  Abrar Bin Rofique 👋
-<img alt='my stats' align='left' height='5vw' width='47%' src='https://github-readme-stats.vercel.app/api?username=abrarbinrofique&show_icons=true'/>
+<img alt='my stats' align='left' height='100vw' width='47%' src='https://github-readme-stats.vercel.app/api?username=abrarbinrofique&show_icons=true'/>
 
 <img alt='top language' align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=abrarbinrofique&layout=compact'/>
