@@ -1,6 +1,6 @@
 <img src="https://github.com/abrarbinrofique/abrarbinrofique/blob/main/Content%20Creator%20LinkedIn%20Banner%20%20(2).png" alt="github cover">
-<h1>Assalamualaikum,I'm  Abrar👋</h1>
-<h5>I'm a passionate web developer skilled in backend development with a strong foundation in Django and RESTful APIs. I enjoy building efficient, scalable systems, and I'm constantly learning to improve my frontend skills with tools like React. I have experience working with PostgreSQL, Cloudinary, and deploying projects on Render,vercel and supabase. My focus is on creating clean, maintainable code and delivering quality user experiences. Currently working on projects that streamline travel planning and improve user interaction through dynamic features.</h5>
+<h1>Happy to see you here👋</h1>
+<h5>I'm Abrar a passionate web developer skilled in backend development with a strong foundation in Django and RESTful APIs. I enjoy building efficient, scalable systems, and I'm constantly learning to improve my frontend skills with tools like React. I have experience working with PostgreSQL, Cloudinary, and deploying projects on Render,vercel and supabase. My focus is on creating clean, maintainable code and delivering quality user experiences. Currently working on projects that streamline travel planning and improve user interaction through dynamic features.</h5>
 
 
 
@@ -11,7 +11,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abrarbinrofique&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abrarbinrofique&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Random inspiring Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
