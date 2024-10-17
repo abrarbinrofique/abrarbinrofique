@@ -1,5 +1,5 @@
 <img src="https://github.com/abrarbinrofique/abrarbinrofique/blob/main/Content%20Creator%20LinkedIn%20Banner%20%20(2).png" alt="github cover">
-## I'm  Abrar Bin Rofique 👋
+## <h3>>I'm  Abrar Bin Rofique</h3>👋
 I'm a passionate web developer skilled in backend development with a strong foundation in Django and RESTful APIs. I enjoy building efficient, scalable systems, and I'm constantly learning to improve my frontend skills with tools like React. I have experience working with PostgreSQL, Cloudinary, and deploying projects on Render. My focus is on creating clean, maintainable code and delivering quality user experiences. Currently working on projects that streamline travel planning and improve user interaction through dynamic features.
 
 
