@@ -1,3 +1,4 @@
+<img src="https://github.com/abrarbinrofique/abrarbinrofique/blob/main/Content%20Creator%20LinkedIn%20Banner%20%20(2).png" alt="github cover">
 ## I'm  Abrar Bin Rofique 👋
 
 ## 🌐 Socials:
